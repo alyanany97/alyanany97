@@ -1,9 +1,21 @@
-# Aly Anany 👨‍💻
-_Machine Learning Developer | Computer Vision Enthusiast | University of Guelph Scholar_
+<div style="padding: 20px 0;">
+  <h1 align="center" style="margin-bottom: 20px;">
+    <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px"> 
+    Aly Anany 👨‍💻
+  </h1>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aly-anany-425424274/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/alyanany97)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:aanany@uoguelph.ca)
+  <p align="center" style="margin-bottom: 20px;">
+    <em>Machine Learning Developer | Computer Vision Enthusiast | University of Guelph Scholar</em>
+  </p>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/aly-anany-425424274/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+    <a href="https://github.com/alyanany97"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+    <a href="mailto:aanany@uoguelph.ca"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  </p>
+</div>
+
+---
 
 ## 🎓 Education & Achievements
 
@@ -48,19 +60,26 @@ Web Application Firewall with management interface
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 
-
 ## 🌱 Current Learning Goals
+
 - Advancing skills in deep learning architectures
 - Exploring natural language processing techniques
 - Enhancing knowledge of cloud computing platforms (AWS, GCP)
 
 ## 📈 GitHub Stats
 
-![Aly's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyAnany&show_icons=true&theme=radical)
+![Aly's GitHub stats](https://github-readme-stats.vercel.app/api?username=alyanany97&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlyAnany&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyanany97&layout=compact&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aly Anany&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alyanany97&theme=dark)](https://git.io/streak-stats)
 
 ## 🌟 Fun Fact
+
 I believe in the power of AI to create a more inclusive world! 🌍✨
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alyanany97&label=Profile%20views&color=0e75b6&style=flat" alt="alyanany97" />
+</p>
