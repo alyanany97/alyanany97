@@ -3,13 +3,13 @@ _Machine Learning Developer | Computer Vision Enthusiast | University of Guelph 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aly-anany-425424274/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/alyanany97)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:aanany@uoguelph.ca)
 
 ## 🎓 Education & Achievements
 
 <img align="right" src="https://www.uoguelph.ca/sites/all/themes/responsive/images/ug-logo.svg" width="200">
 
-**University of Guelph** (20XX - Present)
+**University of Guelph** (2023 - Present)
 - 📚 Computer Engineering
 - 🏆 President's Scholarship Recipient ($42,500)
   - Awarded for academic excellence and leadership potential
@@ -48,10 +48,16 @@ Web Application Firewall with management interface
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 
+
+## 🌱 Current Learning Goals
+- Advancing skills in deep learning architectures
+- Exploring natural language processing techniques
+- Enhancing knowledge of cloud computing platforms (AWS, GCP)
+
 ## 📈 GitHub Stats
 
 <a href="https://github.com/alyanany97">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alyanany97&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aly's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aly Anany&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aly's GitHub Stats" />
 </a>
 
 ## 🌟 Fun Fact
