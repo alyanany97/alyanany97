@@ -56,9 +56,9 @@ Web Application Firewall with management interface
 
 ## 📈 GitHub Stats
 
-![Aly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aly Anany&show_icons=true&theme=radical)
+![Aly's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyAnany&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aly Anany&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlyAnany&layout=compact&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aly Anany&theme=dark)](https://git.io/streak-stats)
 
