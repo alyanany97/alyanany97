@@ -7,7 +7,7 @@ _Machine Learning Developer | Computer Vision Enthusiast | University of Guelph 
 
 ## 🎓 Education & Achievements
 
-<img align="right" src="https://www.uoguelph.ca/sites/all/themes/responsive/images/ug-logo.svg" width="200">
+[![University of Guelph](https://img.shields.io/badge/University%20of%20Guelph-Computer%20Engineering-red?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACklEQVR4nGMAAQAABQABDQottAAAAABJRU5ErkJggg==)](https://www.uoguelph.ca/)
 
 **University of Guelph** (2023 - Present)
 - 📚 Computer Engineering
