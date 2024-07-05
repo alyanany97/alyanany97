@@ -56,9 +56,11 @@ Web Application Firewall with management interface
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/alyanany97">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aly Anany&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aly's GitHub Stats" />
-</a>
+![Aly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aly Anany&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aly Anany&layout=compact&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aly Anany&theme=dark)](https://git.io/streak-stats)
 
 ## 🌟 Fun Fact
 I believe in the power of AI to create a more inclusive world! 🌍✨
